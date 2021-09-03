@@ -1,0 +1,95 @@
+/**
+ * @name disclamer
+ * @author zanetti_23
+ * @description it's beautiful
+ * @source 
+ * @website 
+*/
+
+@import url('https://clearvision.gitlab.io/v6/main.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+
+:root {
+  --main-color: rgb(255, 0, 200);
+  --hover-color: rgb(61, 39, 255);
+  --success-color: rgb(255, 255, 255);
+  --danger-color: rgb(248, 147, 226);
+  --url-color: rgb(58, 87, 255);
+  --background-image: url('https://cdn.discordapp.com/attachments/621902419902857239/867871647255363594/bg-disclaimer-desktop.png');
+  --background-shading: 100%;
+  --background-position: center right;
+  --background-size: cover;
+  --background-repeat: no-repeat;
+  --background-attachment: scroll;
+  --background-brightness: 100%;
+  --background-contrast: 100%;
+  --background-saturation: 100%;
+  --background-grayscale: 0%;
+  --background-invert: 0%;
+  --background-blur: 0px;
+  --background-overlay: rgb(0,0,0,0.21);
+  --user-popout-image: url('https://www.picclickimg.com/00/s/OTAwWDYzNw==/z/HPMAAOSwL3pg0lsS/$/Doujinshi-fan-fiction-books-Mekuru-Lane-3-Azur-_1.jpg');
+  --user-popout-position: center;
+  --user-popout-size: cover;
+  --user-popout-repeat: no-repeat;
+  --user-popout-attachment: scroll;
+  --user-popout-brightness: 100%;
+  --user-popout-contrast: 100%;
+  --user-popout-saturation: 100%;
+  --user-popout-grayscale: 0%;
+  --user-popout-invert: 0%;
+  --user-popout-blur: 0px;
+  --user-modal-image: url('https://i.kym-cdn.com/photos/images/original/001/007/989/206.png');
+  --user-modal-position: bottom center;
+  --user-modal-size: cover;
+  --user-modal-repeat: no-repeat;
+  --user-modal-attachment: scroll;
+  --user-modal-brightness: 100%;
+  --user-modal-contrast: 100%;
+  --user-modal-saturation: 100%;
+  --user-modal-grayscale: 0%;
+  --user-modal-invert: 0%;
+  --user-modal-blur: 0px;
+  --home-icon: url('https://icon-library.com/images/neko-icon/neko-icon-16.jpg');
+  --home-position: bottom center;
+  --home-size: 50px;
+  --channel-unread: #699FDD;
+  --channel-color: rgb(105,159,221,1);
+  --channel-color: rgb(105,159,221,1);
+  --online-color: #43b581;
+  --idle-color: #faa61a;
+  --dnd-color: #982929;
+  --streaming-color: #593695;
+  --offline-color: #808080;
+  --main-font: Whitney;
+  --code-font: Consolas;
+  --channels-width: 220px;
+  --members-width: 240px;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+  --HSL-server-icon-size: 40px;
+  --HSL-server-spacing: 10px;
+  --rs-small-spacing: 0px;
+  --rs-large-spacing: 0px;
+  --rs-width: 1.5px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+}
